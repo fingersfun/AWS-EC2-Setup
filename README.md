@@ -179,3 +179,22 @@ And attach the mykeypair.pem file
 
 source:  http://www.robotmedia.net/2011/04/how-to-create-an-amazon-ec2-instance-with-apache-php-and-mysql-lamp/comment-page-1/
 NetTuts+ "The Ins and Outs of Amazon-EC2"
+
+## License
+
+This source code is licensed under the MIT license.
+
+## Author
+
+<table>
+  <tr>
+    <td>
+      <img src="https://fingersfun.com/img/hand_logo.png?s=100" width="100">
+    </td>
+    <td>
+      Fingers Fun<br />
+      <a href="mailto:kirankumar.mentam@gmail.com">kirankumar.mentamq@gmail.com</a><br />
+      <a href="https://fingersfun.com/">https://fingersfun.com/</a>
+    </td>
+  </tr>
+</table>
